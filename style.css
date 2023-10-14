@@ -216,11 +216,10 @@ span{
     .container{
         background-color: #a9e6f3;
         height:;
-        width: 414px;
+        width: auto;
     }
     .card{
-        margin-bottom: 200px;
-        margin-left:-80px;
-
+        margin-bottom: 0px;
+        margin-left:0px;
     }
 }
