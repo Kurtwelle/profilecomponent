@@ -214,13 +214,13 @@ span{
 
 @media (max-width: 896px){
     .container{
-        background-color: #066259;
+        background-color: #a9e6f3;
         height:;
         width: 414px;
     }
     .card{
-        margin-top: 0px;
         margin-bottom: 200px;
-        margin-left:65px;
+        margin-left:-80px;
+
     }
 }
